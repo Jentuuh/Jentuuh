@@ -13,8 +13,7 @@
 - 🌲 At the moment I'm focussing on expanding my knowledge in algorithms and datastructures, besides my studies of course 😎
 - 🏢 I’m looking for an internship to further develop my skills 
 - 👨‍🎓 2020-2021 Goals: Finish bachelor's degree + filling up my portfolio
-- 🌟 More about me: I'm also particularly interested in science (mainly physics) and art (mainly music, movies, photography, videography and video games) (not a nerd though 😎) I was introduced to coding about 2 years ago, but I'm eager to learn and get experience in different fields.
-
+- 🌟 More about me: I'm also particularly interested in science (mainly physics) and art (mainly music, movies, photography, videography and video games) (not a nerd though 😎)
 
 ### You can also find me on:
 
