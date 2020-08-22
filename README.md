@@ -1,9 +1,7 @@
 ### Welcome, I'm Jente - alias [Jentuuh][website] 👋
 
 <!-- CHANGE TO MY OWN VERSION -->
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
-
+<!--img.shields.io-->
 
 
 ## I'm currently a Bachelor CS Student, expanding my knowledge by doing my best to contribute to the open source community!
@@ -58,8 +56,7 @@
 
 [website]: https://www.google.com
 [Twitter]: https://twitter.com/jentobox
-<!-- [youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr -->
+[youtube]: https://www.youtube.com/channel/UCcUH-r3xpZaHJgnuj8u3G5A
 [linkedin]: https://www.linkedin.com/in/jentevandersanden/
 
 
