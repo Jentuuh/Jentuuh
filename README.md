@@ -54,7 +54,7 @@
 
 </details>
 
-[website]: https://www.google.com
+[website]: https://www.jentevandersanden.com
 [Twitter]: https://twitter.com/jentobox
 [youtube]: https://www.youtube.com/channel/UCcUH-r3xpZaHJgnuj8u3G5A
 [linkedin]: https://www.linkedin.com/in/jentevandersanden/
