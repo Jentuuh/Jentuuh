@@ -6,7 +6,7 @@
 
 ## I'm currently a Bachelor CS Student, expanding my knowledge by doing my best to contribute to the open source community!
 
-- 📓 I’m currently working on my [portfolio][website]! Also working as a full stack developer at [Halff][https://halffapp.com/].
+- 📓 I’m currently working on my [portfolio][website]! Also working as a full stack developer at [Halff](https://halffapp.com/).
 - 🚀 I love creating beautiful things.
 - 🌲 At the moment I'm focussing on expanding my knowledge in algorithms and datastructures, besides my studies of course 😎
 - 🏢 I’m looking for an internship to further develop my skills 
