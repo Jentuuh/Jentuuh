@@ -8,7 +8,7 @@
 
 - 📓 I’m currently working on my [portfolio][website]! Also working part-time as a full stack developer at [Halff](https://halffapp.com/).
 - 🚀 I love creating beautiful things.
-- 🌲 At the moment I'm focussing on expanding my knowledge in algorithms and datastructures, besides my studies of course (check out my [student account][student]😎
+- 🌲 At the moment I'm focussing on expanding my knowledge in algorithms and datastructures, besides my studies of course 😎
 - 🏢 I’m looking for an internship to further develop my skills 
 - 👨‍🎓 2020-2021 Goals: Finish bachelor's degree + filling up my portfolio
 - 🌟 More about me: Besides computer science, I'm also particularly interested in physics and art (mainly music, movies, photography, videography and video games) (not a nerd though 😎)
