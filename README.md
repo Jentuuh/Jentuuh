@@ -6,7 +6,7 @@
 
 ## I'm currently a Bachelor CS Student, expanding my knowledge by doing my best to contribute to the open source community!
 
-- 📓 I’m currently working on my [portfolio][website]! Also working part-time as a full stack developer at [Halff](https://halffapp.com/).
+- 📓 I am currently working on my [portfolio][website]! Also working part-time as a full stack developer at [Halff](https://halffapp.com/).
 - 🚀 I love creating beautiful things.
 - 🌲 At the moment I'm focussing on expanding my knowledge in algorithms and datastructures, besides my studies of course 😎
 - 🧪 Feel free to take a look at my [student Github account](https://github.com/JenteV-1746880)
