@@ -1,10 +1,10 @@
-### Welcome, I'm Jente - alias [Jentuuh][website] 👋
+### Welcome, I am Jente - alias [Jentuuh][website] 👋
 
 <!-- CHANGE TO MY OWN VERSION -->
 <!--img.shields.io-->
 
 
-## I'm currently a Bachelor CS Student, expanding my knowledge by doing my best to contribute to the open source community!
+## I am currently a Master CS Student, expanding my knowledge in the fields of Computer Vision and Computer Networking!
 
 - 📓 I am currently working on my [portfolio][website]! Also working part-time as a full stack developer at [Halff](https://halffapp.com/).
 - 🚀 I love creating beautiful things.
