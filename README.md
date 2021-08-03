@@ -11,7 +11,7 @@
 - 🌲 At the moment I'm focussing on expanding my knowledge in algorithms and datastructures, besides my studies of course 😎
 - 🧪 Feel free to take a look at my [student Github account](https://github.com/JenteV-1746880) or [GitLab account](https://gitlab.com/Jentuuh)
 - 🏢 I am looking for an internship to further develop my skills 
-- 👨‍🎓 2021-2022 Goals: Contribute to my portfolio + prepare for Master's thesis
+- 👨‍🎓 2021-2022 Goals: Implement a voxel engine in Vulkan + develop a business oriented web-platform.
 - 🌟 More about me: Besides computer science, I am also particularly interested in physics and art (mainly music, movies, photography, videography and video games)😎
 
 ### You can also find me on:
