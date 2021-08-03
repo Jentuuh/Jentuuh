@@ -6,7 +6,7 @@
 
 ## I am currently a Master CS Student, expanding my knowledge in the fields of Computer Vision and Computer Networking!
 
-- 📓 I am currently working on my [portfolio][website]! Also working part-time as a full stack developer at [Halff](https://halffapp.com/).
+- 📓 I am currently working on my [portfolio][website]! During my free time I also work as a full stack developer for [Halff](https://halffapp.com/).
 - 🚀 I love creating beautiful things.
 - 🌲 At the moment I'm focussing on expanding my knowledge in algorithms and datastructures, besides my studies of course 😎
 - 🧪 Feel free to take a look at my [student Github account](https://github.com/JenteV-1746880) or [GitLab account](https://gitlab.com/Jentuuh)
