@@ -4,12 +4,12 @@
 <!--img.shields.io-->
 
 
-## I am currently a Master CS Student, expanding my knowledge in the fields of Computer Vision and Computer Networking!
+## Master CS Student, expanding my knowledge in the fields of Computer Vision and Computer Networking!
 
-- 📓 I am currently working on a Voxel Engine in Vulkan! During my free time I also work as a full stack developer for [Halff](https://halffapp.com/).
-- 🚀 At the moment I am focussing on expanding my knowledge in computer graphics as well as advanced algorithms and datastructures 😎
+- 📓 Currently working on a Voxel Engine in Vulkan! During my free time I also work as a full stack developer for [Halff](https://halffapp.com/).
+- 🚀 Focussing on expanding my knowledge in computer graphics as well as advanced algorithms and datastructures 😎
 - 🧪 Feel free to take a look at my [student Github account](https://github.com/JenteV-1746880) or [GitLab account](https://gitlab.com/Jentuuh)
-- 🏢 I am looking for an internship to further develop my skills 
+- 🏢 Looking for an internship to further develop my skills 
 - 👨‍🎓 2021-2022 Goals: Vulkan Voxel Engine (using VLF rendering) + develop a business oriented web-platform.
 - 🌟 More about me: Besides computer science, I am also particularly interested in physics and art (mainly music, movies, photography, videography and video games)😎
 
