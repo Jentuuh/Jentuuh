@@ -1,10 +1,6 @@
-### Welcome, I am Jente - alias [Jentuuh][website] 👋
+<h3 align="center">Welcome, I am Jente - alias [Jentuuh][website] 👋</h2>
 
-<!-- CHANGE TO MY OWN VERSION -->
-<!--img.shields.io-->
-
-
-## Master CS Student, expanding my knowledge in the fields of Computer Vision and Computer Networking!
+<h2 align="center">Master CS Student, expanding my knowledge in the fields of Computer Vision and Computer Networking!</h2>
 
 - 📓 Currently working on a Voxel Engine in Vulkan! During my free time I also work as a full stack developer for [Halff](https://halffapp.com/).
 - 🚀 Focussing on expanding my knowledge in computer graphics as well as advanced algorithms and datastructures 😎
@@ -13,17 +9,16 @@
 - 👨‍🎓 2021-2022 Goals: Vulkan Voxel Engine (using VLF rendering) + develop a business oriented web-platform.
 - 🌟 More about me: Besides computer science, I am also particularly interested in physics and art (mainly music, movies, photography, videography and video games)😎
 
-### You can also find me on:
-
-[<img align="left" alt="jentuuh.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Jentuuh | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Jentuuh | Twitter (@jentobox) | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="Jentuuh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<h3 align="center"> You can also find me on:</h2>
+[<img align="center" alt="jentuuh.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="center" alt="Jentuuh | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="center" alt="Jentuuh | Twitter (@jentobox) | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align="center" alt="Jentuuh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
 
-<h2 align="center"> Favorite technologies and tools:</h2>
+<h3 align="center"> Favorite technologies and tools:</h2>
 <div align="center">
 <img align="center" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 <img align="center" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
