@@ -9,7 +9,7 @@
 - 👨‍🎓 2021-2022 Goals: Vulkan Voxel Engine (using VLF rendering) + develop a business oriented web-platform.
 - 🌟 More about me: Besides computer science, I am also particularly interested in physics and art (mainly music, movies, photography, videography and video games)😎
 
-<h3 align="center"> You can also find me on:</h2>
+<h3 align="center"> You can also find me on:</h3>
 [<img align="center" alt="jentuuh.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="center" alt="Jentuuh | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="center" alt="Jentuuh | Twitter (@jentobox) | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
