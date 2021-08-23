@@ -18,7 +18,7 @@
 
 <br />
 
-<h3 align="center"> Favorite technologies and tools:</h2>
+<h3 align="center"> Favorite technologies and tools:</h3>
 <div align="center">
 <img align="center" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 <img align="center" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
