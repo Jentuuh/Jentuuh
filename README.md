@@ -10,10 +10,10 @@
 - 🌟 More about me: Besides computer science, I am also particularly interested in physics and art (mainly music, movies, photography, videography and video games)😎
 
 <h3 align="center"> You can also find me on:</h3>
-<a href="https://www.jentevandersanden.com"><img align="center" alt="jentevandersanden.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="https://www.youtube.com/channel/UCcUH-r3xpZaHJgnuj8u3G5A"><img align="center" alt="Jentuuh | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
-<a href="https://twitter.com/jentobox"><img align="center" alt="Jentuuh | Twitter (@jentobox) | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/jentevandersanden/"><img align="center" alt="Jentuuh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.jentevandersanden.com" align="center"><img align="center" alt="jentevandersanden.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://www.youtube.com/channel/UCcUH-r3xpZaHJgnuj8u3G5A" align="center"><img align="center" alt="Jentuuh | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
+<a href="https://twitter.com/jentobox" align="center"><img align="center" alt="Jentuuh | Twitter (@jentobox) | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/jentevandersanden/" align="center"><img align="center" alt="Jentuuh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <br />
 
 <h3 align="center"> Favorite technologies and tools:</h3>
