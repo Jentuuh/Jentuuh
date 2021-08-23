@@ -37,7 +37,7 @@
 ---
 
 <details>
-  <summary>🏆 My Github Stats</summary>
+  <summary align="center">🏆 My Github Stats</summary>
 
   <img align="center" alt="Jentuuh's stats on Github" src="https://github-readme-stats.vercel.app/api?username=jentuuh&show_icons=true&hide_border=true&theme=synthwave" />
 </details>
