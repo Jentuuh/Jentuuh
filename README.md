@@ -36,7 +36,7 @@
 
 ---
 
-<details align="center">
+<details>
  <div align="center">
   <summary>🏆 My Github Stats</summary>
 
