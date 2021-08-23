@@ -1,4 +1,4 @@
-<h3 align="center">Welcome, I am Jente - alias [Jentuuh][website] 👋</h2>
+<h3 align="center">Welcome, I am Jente 👋</h2>
 
 <h2 align="center">Master CS Student, expanding my knowledge in the fields of Computer Vision and Computer Networking!</h2>
 
