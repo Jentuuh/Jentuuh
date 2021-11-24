@@ -2,7 +2,7 @@
 
 <h2 align="center">Master CS Student, expanding my knowledge in the fields of Computer Vision and Computer Networking!</h2>
 
-- 📓 Currently working on a Voxel Engine in Vulkan! During my free time I also work as a full stack developer for [Halff](https://halffapp.com/).
+- 📓 Currently working on a Voxel Engine in Vulkan!
 - 🚀 Focussing on expanding my knowledge in computer graphics as well as advanced algorithms and datastructures 😎
 - 🧪 Feel free to take a look at my [student Github account](https://github.com/JenteV-1746880) or [GitLab account](https://gitlab.com/Jentuuh)
 - 🏢 Looking for an internship to further develop my skills 
