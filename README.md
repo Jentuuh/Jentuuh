@@ -1,6 +1,6 @@
 <h3 align="center">Welcome, I am Jente 👋</h2>
 
-<h2 align="center">Master CS Student, expanding my knowledge in the fields of Computer Vision and Computer Networking!</h2>
+<h2 align="center">Master CS Student, expanding my knowledge in the fields of Visual Computing, Artificial Intelligence and Computer Networking!</h2>
 
 - 📓 Currently working on a Voxel Engine in Vulkan!
 - 🚀 Focussing on expanding my knowledge in computer graphics as well as advanced algorithms and datastructures 😎
