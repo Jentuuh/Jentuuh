@@ -7,7 +7,7 @@
 - 🧪 Feel free to take a look at my [student Github account](https://github.com/JenteV-1746880)
 - 🏢 Looking for an internship to further develop my skills 
 - 👨‍🎓 2021-2022 Goals: Vulkan Voxel Engine (using VLF rendering) + learn more about blockchain development.
-- 🌟 More about me: Besides computer science, I am also particularly interested in physics and art (mainly music, movies, photography, videography and video games)😎
+- 🌟 More about me: Besides computer science, I am also particularly interested in physics, cyber security and art (mainly music, movies, photography, videography and video games)😎
 
 <h3 align="center"> You can also find me on:</h3>
 <div align="center">
