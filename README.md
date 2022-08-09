@@ -16,7 +16,7 @@
 </div>
 
 <h3 align="center">Favorite languages and tools</h3>
-<h4 align="center" style="width:50%;">
+<h4 align="center">
   <p align="center">
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-e6e04c?style=for-the-badge&logo=python&logoColor=blue" />
