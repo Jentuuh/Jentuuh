@@ -3,7 +3,7 @@
 <h2 align="center">Master CS Student, with a particular interest in Computer Graphics/Vision!</h2>
 
 - 📓 Focusing on getting up to date with state-of-the-art rendering techniques
-- 🧪 Feel free to take a look at my [student Github account](https://github.com/JenteV-1746880)
+- 🧪 In my spare time, I like to experiment with game design
 - 👨‍🎓 2022-2023 goal: Create a scalable multi-GPU global illumination rendering system
 - 🌟 More about me: I am also into physics, cyber security and art 😎
 
