@@ -1,13 +1,11 @@
 <h3 align="center">Welcome, I am Jente 👋</h2>
 
-<h2 align="center">Master CS Student, expanding my knowledge in the fields of Visual Computing, Artificial Intelligence and Computer Networking!</h2>
+<h2 align="center">Master CS Student, with a particular interest in Computer Graphics/Vision!</h2>
 
-- 📓 Currently working on a Voxel Engine in Vulkan!
-- 🚀 Focussing on expanding my knowledge in computer graphics as well as advanced algorithms and datastructures 😎
+- 📓 Focusing on getting up to date with state-of-the-art rendering techniques
 - 🧪 Feel free to take a look at my [student Github account](https://github.com/JenteV-1746880)
-- 🏢 Looking for an internship to further develop my skills 
-- 👨‍🎓 2021-2022 Goals: Vulkan Voxel Engine + learn more about image based rendering techniques.
-- 🌟 More about me: Besides computer science, I am also particularly interested in physics, cyber security and art (mainly music, movies, photography, videography and video games) 😎
+- 👨‍🎓 2022-2023 goal: Create a scalable multi-GPU global illumination rendering system
+- 🌟 More about me: I am also into physics, cyber security and art 😎
 
 <h3 align="center"> You can also find me on:</h3>
 <div align="center">
@@ -43,7 +41,6 @@
 </details>
 
 [student]: https://github.com/JenteV-1746880
-[website]: https://www.jentevandersanden.com
 [Twitter]: https://twitter.com/jentobox
 [youtube]: https://www.youtube.com/channel/UCcUH-r3xpZaHJgnuj8u3G5A
 [linkedin]: https://www.linkedin.com/in/jentevandersanden/
