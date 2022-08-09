@@ -16,9 +16,6 @@
   </div>
 <br />
 
-<h3 align="center"> </h3>
-
-<br>
 <h3 align="center">Favorite languages and tools</h3>
 <h4 align="center">
   <p align="center">
