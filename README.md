@@ -35,12 +35,6 @@
 
 ---
 
-<details align="center">
-  <summary align="center">🏆 My Github Stats</summary>
-
-  <img align="center" alt="Jentuuh's stats on Github" src="https://github-readme-stats.vercel.app/api?username=jentuuh&show_icons=true&hide_border=true&theme=synthwave" />
-</details>
-
 [student]: https://github.com/JenteV-1746880
 [Twitter]: https://twitter.com/jentobox
 [youtube]: https://www.youtube.com/channel/UCcUH-r3xpZaHJgnuj8u3G5A
