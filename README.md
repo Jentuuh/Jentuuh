@@ -7,7 +7,7 @@
 - 👨‍🎓 2022-2023 goal: Create a scalable multi-GPU global illumination rendering system
 - 🌟 More about me: I am also into physics, cyber security and art 😎
 
-<h3 align="center"> You can also find me on:</h3>
+<h3 align="center"> You can also find me on</h3>
 <div align="center">
 <!-- <a href="https://www.jentevandersanden.com" align="center" ><img align="center" alt="jentevandersanden.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a> -->
 <a href="https://www.youtube.com/channel/UCcUH-r3xpZaHJgnuj8u3G5A" align="center"><img align="center" alt="Jentuuh | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
@@ -16,19 +16,23 @@
   </div>
 <br />
 
-<h3 align="center"> Favorite languages and tools:</h3>
-<div align="center">
-<img align="center" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
-<img align="center" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
-<img align="center" alt="Unity" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/unity-226057.png" />
-<img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="center" alt="Nest" width="26px" src="https://docs.nestjs.com/assets/logo-small.svg"/>
-<img align="center" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png"/>
-<img align="center" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="center" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="center" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
+<h3 align="center"> </h3>
+
+<br>
+<h3 align="center">Favorite languages and tools</h3>
+<h4 align="center">
+  <p align="center">
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-e6e04c?style=for-the-badge&logo=python&logoColor=blue" />
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+    <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-ffffff?style=flat-square&logo=postgreSQL&logoColor=black" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  </p>
+</h4>
 <br />
 </div>
 
