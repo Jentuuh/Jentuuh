@@ -31,7 +31,6 @@
 </h4>
 <br />
 </div>
-![](https://komarev.com/ghpvc/?username=Jentuuh&color=blue&style=for-the-badge&label=Lurkers)
 
 ---
 
@@ -40,4 +39,4 @@
 [youtube]: https://www.youtube.com/channel/UCcUH-r3xpZaHJgnuj8u3G5A
 [linkedin]: https://www.linkedin.com/in/jentevandersanden/
 
-
+![](https://komarev.com/ghpvc/?username=Jentuuh&color=blue&style=for-the-badge&label=Lurkers)
