@@ -1,5 +1,5 @@
-<h3 align="center">Welcome, I am Jente 👋</h2>
-![](https://komarev.com/ghpvc/?username=Jentuuh&color=blueviolet&style=for-the-badge&label=Lurkers)
+<h3 align="center">Welcome, I am Jente 👋</h3>
+[](https://komarev.com/ghpvc/?username=Jentuuh&color=blueviolet&style=for-the-badge&label=Lurkers)
 <h2 align="center">Master CS Student, with a particular interest in Computer Graphics/Vision!</h2>
 
 - 📓 Focusing on getting up to date with state-of-the-art rendering techniques
