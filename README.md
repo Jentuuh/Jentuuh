@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Jentuuh&color=blue&style=for-the-badge&label=Lurkers)
 <h3 align="center">Welcome, I am Jente 👋</h3>
 <h2 align="center">Master CS Student, with a particular interest in Computer Graphics/Vision!</h2>
 
@@ -39,4 +40,3 @@
 [youtube]: https://www.youtube.com/channel/UCcUH-r3xpZaHJgnuj8u3G5A
 [linkedin]: https://www.linkedin.com/in/jentevandersanden/
 
-![](https://komarev.com/ghpvc/?username=Jentuuh&color=blue&style=for-the-badge&label=Lurkers)
