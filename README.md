@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Jentuuh&color=blue&style=for-the-badge&label=Lurkers)
 <h3 align="center">Welcome, I am Jente 👋</h3>
 <h2 align="center">Master CS Student, with a particular interest in Computer Graphics/Vision!</h2>
 
@@ -32,6 +31,7 @@
 </h4>
 <br />
 </div>
+![](https://komarev.com/ghpvc/?username=Jentuuh&color=blue&style=for-the-badge&label=Lurkers)
 
 ---
 
