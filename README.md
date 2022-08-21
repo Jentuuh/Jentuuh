@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Jentuuh&color=blueviolet&style=for-the-badge&label=Lurkers)
+![](https://komarev.com/ghpvc/?username=Jentuuh&color=green&style=for-the-badge&label=Lurkers)
 <h3 align="center">Welcome, I am Jente 👋</h3>
 <h2 align="center">Master CS Student, with a particular interest in Computer Graphics/Vision!</h2>
 
