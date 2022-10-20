@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Jentuuh&color=blue&style=for-the-badge&label=Lurkers)
 <h3 align="center">Welcome, I am Jente 👋</h3>
-<h2 align="center">Master CS Student, with a particular interest in Computer Graphics/Vision!</h2>
+<h2 align="center">Master CS Student, with a particular interest in Computer Graphics!</h2>
 
 - 📓 Focusing on getting up to date with state-of-the-art techniques in novel view synthesis and global illumination
 - 🧪 In my spare time, I like to experiment with game design
