@@ -5,7 +5,7 @@
 - 📓 Focusing on getting up to date with state-of-the-art in light transport algorithms and inverse rendering with radiance fields
 - 🧪 In my spare time, I like to experiment with game design
 - 👨‍🎓 2022-2023 goal: Create a scalable multi-GPU global illumination rendering system
-- 🌟 More about me: I am also into physics, cyber security and art 😎
+- 🌟 More about me: I am also into physics, music and most other forms of art 😎
 
 <h3 align="center"> You can also find me on</h3>
 <div align="center">
