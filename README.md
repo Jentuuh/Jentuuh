@@ -2,7 +2,7 @@
 <h3 align="center">Welcome, I am Jente 👋</h3>
 <h2 align="center">Master CS Student, with a particular interest in Computer Graphics!</h2>
 
-- 📓 Focusing on getting up to date with state-of-the-art in light transport algorithms and novel view synthesis 
+- 📓 Focusing on getting up to date with state-of-the-art in light transport algorithms and inverse rendering with neural scene representations
 - 🧪 In my spare time, I like to experiment with game design
 - 👨‍🎓 2022-2023 goal: Create a scalable multi-GPU global illumination rendering system
 - 🌟 More about me: I am also into physics, cyber security and art 😎
