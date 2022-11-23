@@ -5,7 +5,7 @@
  
 *Interested in light transport algorithms and differentiable rendering*
 <br/>
-* In my spare time, I like to experiment with game design *
+*In my spare time, I like to experiment with game design*
 <br/>
 *2022-2023 goal: Create a scalable multi-GPU global illumination rendering system*
 <br/>
