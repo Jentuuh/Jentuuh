@@ -3,7 +3,7 @@
 <h2 align="center">Master CS Student, with a particular interest in Computer Graphics!</h2>
 <div align="center">
  
-*Interested in light transport algorithms and differentiable rendering*
+*Interested in (interactive) global illumination and differentiable rendering*
 <br/>
 *Currently working on a memory coherent approach to path tracing*
 <br/>
