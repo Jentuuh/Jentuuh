@@ -5,9 +5,9 @@
  
 *Interested in light transport algorithms and differentiable rendering*
 <br/>
-*Likes to experiment with game design*
-<br/>
 *Currently working on a memory coherent approach to path tracing*
+<br/>
+*Likes to experiment with game design*
 <br/>
 *Also into physics, music and most other forms of art*
 <br/>
