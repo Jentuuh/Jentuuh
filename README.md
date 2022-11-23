@@ -2,10 +2,14 @@
 <h3 align="center">Welcome, I am Jente 👋</h3>
 <h2 align="center">Master CS Student, with a particular interest in Computer Graphics!</h2>
 <div align="center">
-*Interested in light transport algorithms and differentiable rendering*
+*Interested in light transport algorithms and differentiable rendering* 
+<br/>
 *In my spare time, I like to experiment with game design*
-- 👨‍🎓 2022-2023 goal: Create a scalable multi-GPU global illumination rendering system
-- 🌟 More about me: I am also into physics, music and most other forms of art 😎
+<br/>
+*2022-2023 goal: Create a scalable multi-GPU global illumination rendering system*
+<br/>
+*Also into physics, music and most other forms of art*
+<br/>
  </div>
 
 <h3 align="center"> You can also find me on</h3>
