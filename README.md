@@ -7,7 +7,7 @@
 <br/>
 *Likes to experiment with game design*
 <br/>
-*Creating a scalable multi-GPU global illumination rendering system*
+*Currently working on a memory coherent approach to path tracing*
 <br/>
 *Also into physics, music and most other forms of art*
 <br/>
