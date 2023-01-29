@@ -5,7 +5,7 @@
  
 *Particularly interested in (interactive) global illumination and differentiable rendering*
 <br/>
-*Currently working on a memory coherent approach to path tracing*
+*Currently working on a memory coherent approach to Monte Carlo path tracing*
 <br/>
 *Likes to experiment with game design*
 <br/>
