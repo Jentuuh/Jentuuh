@@ -5,7 +5,7 @@
  
 *Particularly interested in inverse problems, light transport simulation and physically-based differentiable rendering*
 <br/>
-*Likes to experiment with game design*
+*I like experimenting with storytelling and game design*
 <br/>
 *I really appreciate connections between science and art*
 <br/>
