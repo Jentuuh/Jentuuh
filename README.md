@@ -1,15 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=Jentuuh&color=blue&style=for-the-badge&label=Lurkers)
 <h3 align="center">Welcome, I am Jente.</h3>
-<h2 align="center">Master CS Student, with a particular interest in Computer Graphics!</h2>
+<h2 align="center">PhD student in Computer Graphics</h2>
 <div align="center">
  
-*Particularly interested in (interactive) global illumination and differentiable rendering*
-<br/>
-*Currently working on a memory coherent approach to Monte Carlo path tracing*
+*Particularly interested in inverse problems, light transport simulation and physically-based differentiable rendering*
 <br/>
 *Likes to experiment with game design*
 <br/>
-*Also into physics, music and most other forms of art*
+*I really appreciate connections between science and art*
 <br/>
  
  </div>
@@ -24,8 +22,6 @@
 
 ---
 
-[student]: https://github.com/JenteV-1746880
-[Twitter]: https://twitter.com/jentobox
 [youtube]: https://www.youtube.com/channel/UCcUH-r3xpZaHJgnuj8u3G5A
 [linkedin]: https://www.linkedin.com/in/jentevandersanden/
 
