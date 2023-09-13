@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Jentuuh&color=blue&style=for-the-badge&label=Lurkers)
 <h3 align="center">Welcome, I am Jente.</h3>
-<h2 align="center">PhD student in Computer Graphics</h2>
 <div align="center">
  
 *Particularly interested in inverse problems, light transport simulation and physically-based differentiable rendering*
