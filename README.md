@@ -6,7 +6,7 @@
 <br/>
 *I like experimenting with storytelling and game design*
 <br/>
-*I really appreciate connections between science and art*
+*I appreciate connections between science and art*
 <br/>
  
  </div>
