@@ -2,9 +2,7 @@
 <h3 align="center">Welcome, I am Jente.</h3>
 <div align="center">
  
-*Particularly interested in inverse problems, light transport simulation and physically-based differentiable rendering*
-<br/>
-*I like experimenting with storytelling and game design*
+*Particularly interested in generative diffusion models, inverse problems and light transport simulation*
 <br/>
 *I appreciate connections between science and art*
 <br/>
